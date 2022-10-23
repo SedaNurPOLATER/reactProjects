@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Teko:wght@300;400;500;600;700&display=swap");
+
+body {
+  font-family: "Teko", sans-serif !important;
+  background-color: rgba(11, 12, 12, 0.959) !important;
+}
+
+.switch {
+  margin-right: 10px;
+  margin-top: 10px;
+}
+
+.button {
+  margin-top: 1rem;
+  font-size: 23px !important;
+  font-weight: 700 !important;
+  color: rgb(26, 19, 3) !important;
+  font-weight: 200 !important;
+}
